@@ -1,11 +1,12 @@
 # Todo App
 
 ## Technologies:
-1. React
-2. React Context API
-3. React Hooks
-4. Typescript
-5. [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp)
+1. [ESLint + Prettier](https://github.com/ebs-integrator/ebs-fe-intership-test-1)
+2. React
+3. React Context API
+4. React Hooks
+5. Typescript
+6. [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp)
 
 ## Requirements (Todo):
 1. Build a Todo app, that should allow the user to create/edit/delete categories and todo notes. 
