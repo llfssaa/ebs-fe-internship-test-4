@@ -8,6 +8,7 @@
 5. Typescript
 6. [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp)
 7. Dayjs
+8. Atomic Design Pattern (ask your mentor firstly)
 
 ## Requirements (Todo):
 1. Build a Todo app, that should allow the user to create/edit/delete categories and todo notes. 
